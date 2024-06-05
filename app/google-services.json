@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311117109030",
+    "project_id": "mylittlezoe-f0d9d",
+    "storage_bucket": "mylittlezoe-f0d9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311117109030:android:5297d72a328bf594d053e7",
+        "android_client_info": {
+          "package_name": "de.michawallo.mylittlezoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311117109030-vb28lsc5brbj1u976of13e4oq9g7okgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6j6CKdduKipAVBYb7OUsWh-qRMjRgET4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311117109030-vb28lsc5brbj1u976of13e4oq9g7okgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
